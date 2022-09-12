@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**4Sangwon/4Sangwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Tech Blog 🌐</h3> 
+<a href='https://cdxli.tistory.com/' target='_blank'><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
-Here are some ideas to get you started:
+<h3 align="left">📨 How to reach me:</h3> 
+idcop7@naver.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<h3 align="left">✏️ Learning Now:</h3> 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
+### Tools
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+
+<h3 align="left">👀 Github stats:</h3> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4Sangwon&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4Sangwon&layout=compact)](https://github.com/4Sangwon/github-readme-stats)
